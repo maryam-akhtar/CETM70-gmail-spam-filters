@@ -28,4 +28,4 @@ The poster explores how computer science techniques such as machine learning, ne
 
 ### Author
 **Maryam Akhtar**  
-🎓 MSc Computer Science (Graduating 2026)  
+ MSc Computer Science (Graduating 2026)  
